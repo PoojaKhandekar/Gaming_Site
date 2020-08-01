@@ -37,10 +37,14 @@ TITLE_FONT=pygame.font.SysFont('comicsans',70)
 word=words.random_word()
 guessed=[]
 
+HANGMAN = os.path.dirname((os.path.abspath(__file__)))
+IMAGES = os.path.join(HANGMAN, 'images')
+
 #loading hangman images
 images= []
 for i in range (7):
-    image=pygame.image.load(r'C:\Users\HP\OneDrive\Desktop\hangmanImages\images\hangman'+str(i)+'.png')
+    #image=pygame.image.load(r'C:\Users\HP\OneDrive\Desktop\hangmanImages\images\hangman'+str(i)+'.png')
+    image=pygame.image.load(os.path.join(IMAGES, 'hangman'+str(i)+'.png'))
     images.append(image)
 
 #what image do we want to draw when
