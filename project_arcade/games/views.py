@@ -16,6 +16,9 @@ print(BASE_DIR)
 def index(request):
     return render(request, 'games/index.html')
 
+def games_eda(request):
+    return render(request, 'games/games_eda.html')
+
 def rock_paper_scissors(request):
     run([sys.executable, os.path.join(ROCK_PAPER_SCISSORS,'play_rps.py')], shell=False, stdout=PIPE)
     return render(request, 'games/index.html')
