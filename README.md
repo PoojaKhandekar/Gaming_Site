@@ -1,6 +1,6 @@
-# ML Arcade
+# Gaming Arcade
 
-## Gaming_Site
+## A Machine Learning Gaming Site
 
 ### Team name: Group 10
 
