@@ -103,7 +103,6 @@ OpenCV is a library of programming functions mainly aimed at real-time computer 
 * https://pandas.pydata.org/
 * https://www.djangoproject.com/
 * https://www.pygame.org/news
-* https://github.com/SouravJohar/rock-paper-scissors
 
 ### 6. Team Members
 
