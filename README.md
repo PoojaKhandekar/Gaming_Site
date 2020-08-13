@@ -4,8 +4,6 @@
 
 ### Team name: Group 10
 
-##### Video link: https://drive.google.com/drive/folders/1ZOILKKIPpK_rxlC3FkcyNxDZa-4TK3K-?usp=sharing
-
 ### 1. INTRODUCTION
 A website with an arcade design with games in Machine Learning and Python.
  
