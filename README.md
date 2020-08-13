@@ -96,7 +96,7 @@ OpenCV is a library of programming functions mainly aimed at real-time computer 
 
 ### 5. Citations
 
-* https://www.kaggle.com/
+* https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings 
 * https://www.python.org/
 * https://anaconda.org/anaconda/python/
 * http://www.numpy.org/
